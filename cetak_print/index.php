@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MEMBUAT CETAK PRINT LAPORAN DENGAN PHP</title>
+</head>
+<body>
+ 
+	<center>
+		<h2>MEMBUAT CETAK PRINT LAPORAN DENGAN PHP</h2>
+	</center>
+ 
+ 
+ 
+	<a href="cetak1.php" target="_BLANK">PRINT</a>
+ 
+</body>
+</html>
